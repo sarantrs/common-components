@@ -1,5 +1,5 @@
 {
-  "name": "saran-cc-test",
+  "name": "common-component",
   "version": "0.1.1",
   "dependencies": {
     "react": "^17.0.1",
